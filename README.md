@@ -1,17 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Rahul Karak</h1>
 <h3 align="center">A passionate Full Stack/Mern Stack developer from India</h3>
-  <div style="text-align: center;">
-        <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-    </div>
+  <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkarak&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkarak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkarak" alt="rahulkarak" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rahulkarak712" target="blank"><img src="https://img.shields.io/twitter/follow/rahulkarak712?logo=twitter&style=for-the-badge" alt="rahulkarak712" /></a> </p>
 
 - 🌱 I’m currently learning **Mern Stack**
 
