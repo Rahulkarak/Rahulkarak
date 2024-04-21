@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Rahul Karak</h1>
 <h3 align="center">A passionate Full Stack/Mern Stack developer from India</h3>
-<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <div style="text-align: center;">
+        <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    </div>
 
 
 
